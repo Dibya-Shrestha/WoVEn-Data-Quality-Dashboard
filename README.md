@@ -6,6 +6,7 @@ This dashboard visualises workforce data quality trends using WoVEn (Workforce V
 📥 Data Sources
 - Monthly WoVEn Score Summary Excel files (Jan 2024 – Jul 2024)
 - GuidanceWoVEnReports_V7.4.pdf – Official documentation
+- https://digital.nhs.uk/data-and-information/areas-of-interest/workforce/electronic-staff-record-data-quality-reports-woven
 
 🧱 How the Data Table Was Generated
 
