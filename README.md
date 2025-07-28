@@ -10,7 +10,9 @@ This dashboard visualises workforce data quality trends using WoVEn (Workforce V
 🧱 How the Data Table Was Generated
 
 1️. Monthly File Preparation
+
 2. Merged All Monthly Sheets
+   
 3. Added column like MonthNumber, Quartile Value, PreviousQuartile, Previous Quartile Value and Trend
 
 Dashboard Components
