@@ -18,8 +18,11 @@ This dashboard visualises workforce data quality trends using WoVEn (Workforce V
 Dashboard Components
 
 🔢 Top Panel
+
 Total Organisation: Displays the number of unique NHS organisations analysed across all months.
+
 Note Box: Reminder that WoVEn scores are diagnostic indicators, not comparative rankings.
+
 Month Selector: Interactive filter to slice data by month (Jan to Jul).
 
 📈 Charts Explained
